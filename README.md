@@ -46,12 +46,12 @@ Inline CSS Styles
 
 📍 1. Step-by-Step Workflow Process
 
-✅ **Step 1 **— Create React Project
+✅ **Step 1**— Create React Project
 
     npx create-react-app topic-search-app
     cd topic-search-app
 
-✅ **Step 2 **— Create Component File
+✅ **Step 2**— Create Component File
 
 Inside src/, create:
 
